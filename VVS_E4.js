@@ -6,11 +6,11 @@ const obj = {
     c: "23456",
     name: "VVS"
 };
-//
-// console.log(obj);
-// delete obj.c;
-// console.log(obj);
-// console.log(obj.f())
+
+console.log(obj);
+delete obj.c;
+console.log(obj);
+console.log(obj.f())
 
 
 // Задание 1
